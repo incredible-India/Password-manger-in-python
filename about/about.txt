@@ -1,0 +1,4 @@
+Trust Me is a project which keeps all password of some basic apps like ,flipkart,amazone,zomato,swiggy,Gmail etc in encrypted mode.
+This is very secure app, only User can see that after login the page with specific id and passsowrd.
+
+If you want to contact Admin or contribute something in this project call on 9506891090 or 8604470501,also you can mail us himanshu399231@gmail.com.

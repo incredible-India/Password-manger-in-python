@@ -1,0 +1,8 @@
+only backup ,restore login ,in register confirm button has to code ....
+in register ,there is a function
+
+New Registration,inside this a  function named Confirmation
+
+there is a dictionary named toSaveData ,only this dictionary has to save in database ,,
+just because mongodb module pymongo is not working
+------------------------------------------------------------------------
